@@ -1,7 +1,7 @@
 # Moyo header
-Create an HTML page with the header using `flexbox` based on the [Figma Mockup](https://www.figma.com/file/1sog2rmfyCjnVxkeZ3ptnc/MOYO-%2F-Header?node-id=0%3A1&mode=dev).
+Create an HTML page with  the header using `flexbox` based on the [Figma Mockup](https://www.figma.com/file/1sog2rmfyCjnVxkeZ3ptnc/MOYO-%2F-Header?node-id=0%3A1&mode=dev).
 
-The page should match the design Pixel Perfect: all the sizes, colors and distances MUST be the same as on the design.
+The  page should match the design Pixel Perfect: all the sizes, colors and distances MUST be the same as on the design.
 
 > Here are the [Layout Tasks Instructions](https://mate-academy.github.io/layout_task-guideline)
 
@@ -21,7 +21,7 @@ The page should match the design Pixel Perfect: all the sizes, colors and distan
 - don't use the flex `gap` property for indents. It's not supported in tests, use `margin` instead
 - there should not be margins before the first and after the last list items
 - don't just copy all styles from Figma. Think, which of them are relevant. Uneven sizes (e.g. `line-height: 14.6px`) are definitely useless
-- Nav Links should not have any padding but have the text centered
+- Nav Links should not have any padding but have the text  centered
 
 ## Checklist
 
